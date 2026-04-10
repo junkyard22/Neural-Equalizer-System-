@@ -55,3 +55,5 @@ Concept phase. Seeking academic collaboration and research partners.
 If you are working in neuroengineering, computational neuroscience, or clinical neuromodulation and this framework interests you — open an issue or reach out directly.
 
 Distillery Labs — James Yarber — 2025
+
+© 2025 James Yarber. Licensed under CC BY-NC 4.0. Commercial use requires explicit permission from the author.
